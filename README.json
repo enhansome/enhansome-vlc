@@ -236,7 +236,7 @@
             "last_commit": "2025-09-25T03:33:58Z",
             "owner": "solid-software",
             "repo": "flutter_vlc_player",
-            "stars": 605
+            "stars": 604
           }
         },
         {
@@ -305,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:49:15.274Z",
+    "last_updated": "2026-08-15T08:02:34.941Z",
     "original_repository": "mfkl/awesome-vlc",
     "original_repository_sha": "cccfe5e59dcc7082c91efa38800338b2765bdbf1",
     "enhanced_repository": "enhansome/enhansome-vlc",
