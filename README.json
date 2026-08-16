@@ -14,7 +14,7 @@
             "last_commit": "2025-01-28T11:12:45Z",
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1196
+            "stars": 1198
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-10-06T20:26:54Z",
             "owner": "spmn",
             "repo": "vlc-win10smtc",
-            "stars": 124
+            "stars": 126
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2025-09-19T19:57:29Z",
             "owner": "eltoro0815",
             "repo": "vlc-auto-dir-enqueue-prev-next",
-            "stars": 6
+            "stars": 7
           }
         }
       ],
@@ -305,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:02:34.941Z",
+    "last_updated": "2026-08-16T08:02:21.374Z",
     "original_repository": "mfkl/awesome-vlc",
     "original_repository_sha": "cccfe5e59dcc7082c91efa38800338b2765bdbf1",
     "enhanced_repository": "enhansome/enhansome-vlc",
