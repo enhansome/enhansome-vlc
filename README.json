@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24564790,
             "language": "C",
             "last_commit": "2025-01-28T11:12:45Z",
             "owner": "nurupo",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75965854,
             "language": "C++",
             "last_commit": "2026-08-09T14:28:42Z",
             "owner": "johang",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391701578,
             "language": "C++",
             "last_commit": "2024-10-06T20:26:54Z",
             "owner": "spmn",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177290290,
             "language": "C",
             "last_commit": "2020-05-24T08:42:06Z",
             "owner": "aklexel",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35773804,
             "language": "Lua",
             "last_commit": "2019-06-01T04:09:15Z",
             "owner": "nemosharma6",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381908912,
             "language": "Zig",
             "last_commit": "2021-07-01T04:54:25Z",
             "owner": "lachie",
@@ -91,7 +97,7 @@
       "title": "VLC native plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22417617,
             "language": "Python",
             "last_commit": "2019-02-03T19:41:11Z",
             "owner": "xaf",
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34181773,
             "language": "Lua",
             "last_commit": "2026-06-19T16:52:36Z",
             "owner": "surrim",
             "repo": "vlc-delete",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286372838,
             "language": "Lua",
             "last_commit": "2021-08-12T16:10:30Z",
             "owner": "Trevelopment",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 966156588,
             "language": "Python",
             "last_commit": "2025-06-11T15:34:46Z",
             "owner": "piebro",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 410108860,
             "language": "Lua",
             "last_commit": "2021-09-26T05:14:27Z",
             "owner": "Abstraxt-AA",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1060372783,
             "language": "Lua",
             "last_commit": "2025-09-19T19:57:29Z",
             "owner": "eltoro0815",
@@ -181,7 +193,7 @@
       "title": "VLC web & lua extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136175474,
             "language": "C#",
             "last_commit": "2026-08-05T15:50:21Z",
             "owner": "videolan",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3289298,
             "language": "Java",
             "last_commit": "2026-02-22T21:07:55Z",
             "owner": "caprica",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35631003,
             "language": "C++",
             "last_commit": "2021-12-26T08:04:25Z",
             "owner": "RSATom",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164102668,
             "language": "Dart",
             "last_commit": "2025-09-25T03:33:58Z",
             "owner": "solid-software",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 346656517,
             "language": "C++",
             "last_commit": "2024-06-14T08:39:52Z",
             "owner": "alexmercerind",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28865956,
             "language": "Go",
             "last_commit": "2026-07-16T20:22:15Z",
             "owner": "adrg",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24303649,
             "language": "Python",
             "last_commit": "2025-06-09T15:37:09Z",
             "owner": "oaubert",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575954860,
             "language": "Zig",
             "last_commit": "2023-09-03T12:56:56Z",
             "owner": "kassane",
@@ -297,15 +317,10 @@
         }
       ],
       "title": "Bindings"
-    },
-    {
-      "description": "Contributions are welcome!",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:16:30.110Z",
+    "last_updated": "2026-08-19T08:17:35.161Z",
     "original_repository": "mfkl/awesome-vlc",
     "original_repository_sha": "cccfe5e59dcc7082c91efa38800338b2765bdbf1",
     "enhanced_repository": "enhansome/enhansome-vlc",
