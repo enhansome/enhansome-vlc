@@ -207,7 +207,7 @@
             "last_commit": "2026-08-05T15:50:21Z",
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1806
+            "stars": 1805
           }
         },
         {
@@ -320,7 +320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:59:39.679Z",
+    "last_updated": "2026-08-20T08:18:57.731Z",
     "original_repository": "mfkl/awesome-vlc",
     "original_repository_id": 355072486,
     "original_repository_sha": "cccfe5e59dcc7082c91efa38800338b2765bdbf1",
