@@ -222,7 +222,7 @@
             "last_commit": "2026-02-22T21:07:55Z",
             "owner": "caprica",
             "repo": "vlcj",
-            "stars": 1243
+            "stars": 1244
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2025-06-09T15:37:09Z",
             "owner": "oaubert",
             "repo": "python-vlc",
-            "stars": 450
+            "stars": 449
           }
         },
         {
@@ -320,7 +320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:18:57.731Z",
+    "last_updated": "2026-08-21T08:20:43.273Z",
     "original_repository": "mfkl/awesome-vlc",
     "original_repository_id": 355072486,
     "original_repository_sha": "cccfe5e59dcc7082c91efa38800338b2765bdbf1",
