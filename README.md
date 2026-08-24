@@ -35,7 +35,7 @@ This is a list of awesome resources about VLC and LibVLC.
 ## VLC web & lua extensions
 
 * [TraktForVLC](https://github.com/XaF/TraktForVLC) ⭐ 314 | 🐛 30 | 🌐 Python | 📅 2019-02-03 - Automatically trakt.tv what you're watching on VLC.
-* [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 118 | 🐛 7 | 🌐 Lua | 📅 2026-06-19 - VLC extension to remove videos from the hard disk.
+* [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 119 | 🐛 7 | 🌐 Lua | 📅 2026-06-19 - VLC extension to remove videos from the hard disk.
 * [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) ⭐ 18 | 🐛 1 | 🌐 Lua | 📅 2021-08-12 - Automatically Skip Opening and Ending Sequences.
 * [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-06-11 -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
 * [playlist-youtube-vlc](https://github.com/Abstraxt-AA/playlist-youtube-vlc) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2021-09-26 - Lua plugin to parse Youtube playlists.
@@ -93,4 +93,4 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
