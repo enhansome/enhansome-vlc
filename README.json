@@ -42,7 +42,7 @@
             "archived": false,
             "id": 391701578,
             "language": "C++",
-            "last_commit": "2024-10-06T20:26:54Z",
+            "last_commit": "2026-08-25T21:36:15Z",
             "owner": "spmn",
             "repo": "vlc-win10smtc",
             "stars": 126
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-05T15:50:21Z",
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1806
+            "stars": 1805
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-02-22T21:07:55Z",
             "owner": "caprica",
             "repo": "vlcj",
-            "stars": 1243
+            "stars": 1241
           }
         },
         {
@@ -320,7 +320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:24:01.992Z",
+    "last_updated": "2026-08-26T08:24:36.360Z",
     "original_repository": "mfkl/awesome-vlc",
     "original_repository_id": 355072486,
     "original_repository_sha": "cccfe5e59dcc7082c91efa38800338b2765bdbf1",
