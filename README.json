@@ -15,7 +15,7 @@
             "last_commit": "2025-01-28T11:12:45Z",
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1201
+            "stars": 1200
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-09T14:28:42Z",
             "owner": "johang",
             "repo": "vlc-bittorrent",
-            "stars": 496
+            "stars": 497
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 391701578,
             "language": "C++",
-            "last_commit": "2026-08-25T21:36:15Z",
+            "last_commit": "2026-08-26T21:27:20Z",
             "owner": "spmn",
             "repo": "vlc-win10smtc",
             "stars": 126
@@ -222,7 +222,7 @@
             "last_commit": "2026-02-22T21:07:55Z",
             "owner": "caprica",
             "repo": "vlcj",
-            "stars": 1241
+            "stars": 1240
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2025-06-09T15:37:09Z",
             "owner": "oaubert",
             "repo": "python-vlc",
-            "stars": 449
+            "stars": 447
           }
         },
         {
@@ -320,9 +320,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:24:36.360Z",
-    "original_repository": "mfkl/awesome-vlc",
-    "original_repository_id": 355072486,
+    "last_updated": "2026-08-27T12:10:02.242Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 355072486,
+      "language": null,
+      "last_commit": "2026-03-18T04:20:17Z",
+      "owner": "mfkl",
+      "repo": "awesome-vlc",
+      "stars": 294
+    },
     "original_repository_sha": "cccfe5e59dcc7082c91efa38800338b2765bdbf1",
     "enhanced_repository": "enhansome/enhansome-vlc",
     "enhanced_repository_description": null,
