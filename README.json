@@ -16,7 +16,8 @@
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
             "stars": 1200
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "johang",
             "repo": "vlc-bittorrent",
             "stars": 497
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "spmn",
             "repo": "vlc-win10smtc",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "aklexel",
             "repo": "vlc-tip-plugin",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "nemosharma6",
             "repo": "vlc-plugin-marker",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "lachie",
             "repo": "vlc-mixer",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         }
       ],
       "title": "VLC native plugins"
@@ -112,7 +118,8 @@
             "owner": "xaf",
             "repo": "TraktForVLC",
             "stars": 314
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "surrim",
             "repo": "vlc-delete",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "Trevelopment",
             "repo": "vlc-super-skipper",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "piebro",
             "repo": "vlc-mcp-server",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "Abstraxt-AA",
             "repo": "playlist-youtube-vlc",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "eltoro0815",
             "repo": "vlc-auto-dir-enqueue-prev-next",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         }
       ],
       "title": "VLC web & lua extensions"
@@ -208,7 +220,8 @@
             "owner": "videolan",
             "repo": "libvlcsharp",
             "stars": 1805
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "caprica",
             "repo": "vlcj",
             "stars": 1240
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "RSATom",
             "repo": "WebChimera.js",
             "stars": 667
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "solid-software",
             "repo": "flutter_vlc_player",
             "stars": 605
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "alexmercerind",
             "repo": "dart_vlc",
             "stars": 527
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "adrg",
             "repo": "libvlc-go",
             "stars": 510
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "oaubert",
             "repo": "python-vlc",
             "stars": 447
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         },
         {
           "node_type": "item",
@@ -313,14 +332,15 @@
             "owner": "kassane",
             "repo": "libvlc-zig",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
         }
       ],
       "title": "Bindings"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:25:05.560Z",
+    "last_updated": "2026-08-28T19:36:22.521Z",
     "original_repository_info": {
       "archived": false,
       "id": 355072486,
