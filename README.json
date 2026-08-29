@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for VLC that pauses/plays video on mouse click",
+            "homepage": null,
             "id": 24564790,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2025-01-28T11:12:45Z",
+            "open_issues": 19,
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1200
+            "stars": 1200,
+            "topics": [
+              "plugin",
+              "vlc",
+              "vlc-plugin"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -26,12 +35,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bittorrent plugin for VLC.",
+            "homepage": null,
             "id": 75965854,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-09T14:28:42Z",
+            "open_issues": 9,
             "owner": "johang",
             "repo": "vlc-bittorrent",
-            "stars": 497
+            "stars": 497,
+            "topics": [
+              "bittorrent",
+              "debian",
+              "libtorrent",
+              "libvlc",
+              "plugin",
+              "stream",
+              "streaming",
+              "torrent",
+              "ubuntu",
+              "videolan",
+              "vlc",
+              "vlc-bittorrent"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -42,12 +69,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrate VLC Media Player with Windows System Media Transport Controls (SMTC)",
+            "homepage": null,
             "id": 391701578,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T21:27:20Z",
+            "open_issues": 2,
             "owner": "spmn",
             "repo": "vlc-win10smtc",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "media",
+              "plugin",
+              "smtc",
+              "vlc"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -58,12 +95,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.",
+            "homepage": null,
             "id": 177290290,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2020-05-24T08:42:06Z",
+            "open_issues": 2,
             "owner": "aklexel",
             "repo": "vlc-tip-plugin",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "plugin",
+              "vlc",
+              "vlc-plugin"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -74,12 +120,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "marker provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.",
+            "homepage": null,
             "id": 35773804,
             "language": "Lua",
+            "license": null,
             "last_commit": "2019-06-01T04:09:15Z",
+            "open_issues": 1,
             "owner": "nemosharma6",
             "repo": "vlc-plugin-marker",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "lua",
+              "vlc-plugin"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -90,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trying zig by writing a VLC plugin!",
+            "homepage": null,
             "id": 381908912,
             "language": "Zig",
+            "license": null,
             "last_commit": "2021-07-01T04:54:25Z",
+            "open_issues": 0,
             "owner": "lachie",
             "repo": "vlc-mixer",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         }
@@ -112,12 +171,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically trakt.tv what you're watching on VLC",
+            "homepage": null,
             "id": 22417617,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-02-03T19:41:11Z",
+            "open_issues": 30,
             "owner": "xaf",
             "repo": "TraktForVLC",
-            "stars": 314
+            "stars": 314,
+            "topics": [
+              "lua",
+              "movie",
+              "python",
+              "trakt",
+              "tvshows",
+              "vlc"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -128,12 +199,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VLC extension to remove videos from the filesystem",
+            "homepage": null,
             "id": 34181773,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-19T16:52:36Z",
+            "open_issues": 7,
             "owner": "surrim",
             "repo": "vlc-delete",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "lua",
+              "vlc",
+              "vlc-extension",
+              "vlc-player"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -144,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intro & Credits Skipper for VLC",
+            "homepage": null,
             "id": 286372838,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2021-08-12T16:10:30Z",
+            "open_issues": 1,
             "owner": "Trevelopment",
             "repo": "vlc-super-skipper",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -160,12 +246,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP (Model Context Protocol) Server to play and control movies using VLC.",
+            "homepage": null,
             "id": 966156588,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-11T15:34:46Z",
+            "open_issues": 0,
             "owner": "piebro",
             "repo": "vlc-mcp-server",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "mcp",
+              "mcp-server",
+              "vlc-media-player"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -176,12 +271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lua plugin to parse Youtube playlists",
+            "homepage": null,
             "id": 410108860,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2021-09-26T05:14:27Z",
+            "open_issues": 0,
             "owner": "Abstraxt-AA",
             "repo": "playlist-youtube-vlc",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -192,12 +292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1060372783,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-09-19T19:57:29Z",
+            "open_issues": 1,
             "owner": "eltoro0815",
             "repo": "vlc-auto-dir-enqueue-prev-next",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         }
@@ -214,12 +319,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform .NET/Mono bindings for LibVLC",
+            "homepage": "https://www.videolan.org",
             "id": 136175474,
             "language": "C#",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-05T15:50:21Z",
+            "open_issues": 4,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1805
+            "stars": 1805,
+            "topics": [
+              "dotnet",
+              "libvlc",
+              "libvlcsharp",
+              "multimedia",
+              "player",
+              "unity",
+              "vlc",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -230,12 +349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java framework for the vlc media player",
+            "homepage": "http://www.capricasoftware.co.uk/projects/vlcj",
             "id": 3289298,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-22T21:07:55Z",
+            "open_issues": 5,
             "owner": "caprica",
             "repo": "vlcj",
-            "stars": 1240
+            "stars": 1240,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -246,12 +370,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[ABANDONED] libvlc binding for Electron",
+            "homepage": null,
             "id": 35631003,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2021-12-26T08:04:25Z",
+            "open_issues": 8,
             "owner": "RSATom",
             "repo": "WebChimera.js",
-            "stars": 667
+            "stars": 667,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -262,12 +391,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📺 Flutter VLC powered video player.",
+            "homepage": null,
             "id": 164102668,
             "language": "Dart",
+            "license": null,
             "last_commit": "2025-09-25T03:33:58Z",
+            "open_issues": 366,
             "owner": "solid-software",
             "repo": "flutter_vlc_player",
-            "stars": 605
+            "stars": 605,
+            "topics": [
+              "flutter",
+              "flutter-video-player",
+              "vlc"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -278,12 +416,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Flutter bindings to libVLC.",
+            "homepage": null,
             "id": 346656517,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2024-06-14T08:39:52Z",
+            "open_issues": 53,
             "owner": "alexmercerind",
             "repo": "dart_vlc",
-            "stars": 527
+            "stars": 527,
+            "topics": [
+              "audio",
+              "audio-player",
+              "broadcast",
+              "chromecast",
+              "dart",
+              "equalizer",
+              "flutter",
+              "flutter-desktop",
+              "hacktoberfest",
+              "libvlc",
+              "linux",
+              "playback",
+              "record",
+              "video",
+              "video-player",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -294,12 +454,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Handcrafted Go bindings for libVLC and high-level media player interface",
+            "homepage": "https://pkg.go.dev/github.com/adrg/libvlc-go/v3",
             "id": 28865956,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-16T20:22:15Z",
+            "open_issues": 13,
             "owner": "adrg",
             "repo": "libvlc-go",
-            "stars": 510
+            "stars": 510,
+            "topics": [
+              "audio",
+              "bindings",
+              "go",
+              "golang",
+              "golang-library",
+              "libvlc",
+              "libvlc-go",
+              "media",
+              "media-player",
+              "player",
+              "screen-capture",
+              "screen-recorder",
+              "sound",
+              "video",
+              "video-player",
+              "vlc",
+              "vlc-libvlc",
+              "vlc-media-player",
+              "vlc-player"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -310,12 +495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python vlc bindings",
+            "homepage": null,
             "id": 24303649,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2025-06-09T15:37:09Z",
+            "open_issues": 96,
             "owner": "oaubert",
             "repo": "python-vlc",
-            "stars": 447
+            "stars": 447,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         },
@@ -326,12 +516,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zig bindings for libVLC media framework.",
+            "homepage": null,
             "id": 575954860,
             "language": "Zig",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-09-03T12:56:56Z",
+            "open_issues": 7,
             "owner": "kassane",
             "repo": "libvlc-zig",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "bindings",
+              "libvlc",
+              "libvlc-zig",
+              "zig",
+              "zig-library",
+              "zig-package"
+            ]
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
         }
@@ -340,15 +542,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:36:22.521Z",
+    "last_updated": "2026-08-29T04:52:11.615Z",
     "original_repository_info": {
       "archived": false,
+      "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
+      "homepage": null,
       "id": 355072486,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-18T04:20:17Z",
+      "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 294
+      "stars": 294,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "libvlc",
+        "multimedia",
+        "videolan",
+        "vlc"
+      ]
     },
     "original_repository_sha": "cccfe5e59dcc7082c91efa38800338b2765bdbf1",
     "enhanced_repository": "enhansome/enhansome-vlc",
