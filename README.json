@@ -78,7 +78,7 @@
             "open_issues": 2,
             "owner": "spmn",
             "repo": "vlc-win10smtc",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "media",
               "plugin",
@@ -255,7 +255,7 @@
             "open_issues": 0,
             "owner": "piebro",
             "repo": "vlc-mcp-server",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "mcp",
               "mcp-server",
@@ -324,11 +324,11 @@
             "id": 136175474,
             "language": "C#",
             "license": "LGPL-2.1",
-            "last_commit": "2026-08-05T15:50:21Z",
+            "last_commit": "2026-08-31T11:23:11Z",
             "open_issues": 4,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1807,
+            "stars": 1809,
             "topics": [
               "dotnet",
               "libvlc",
@@ -355,7 +355,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-02-22T21:07:55Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "caprica",
             "repo": "vlcj",
             "stars": 1241,
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:20:02.909Z",
+    "last_updated": "2026-08-31T15:30:28.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
@@ -554,7 +554,7 @@
       "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 294,
+      "stars": 295,
       "topics": [
         "awesome",
         "awesome-list",
