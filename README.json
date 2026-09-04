@@ -328,7 +328,7 @@
             "open_issues": 4,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1808,
+            "stars": 1809,
             "topics": [
               "dotnet",
               "libvlc",
@@ -463,7 +463,7 @@
             "open_issues": 13,
             "owner": "adrg",
             "repo": "libvlc-go",
-            "stars": 510,
+            "stars": 511,
             "topics": [
               "audio",
               "bindings",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:16:02.739Z",
+    "last_updated": "2026-09-04T12:16:29.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
@@ -554,7 +554,7 @@
       "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 295,
+      "stars": 296,
       "topics": [
         "awesome",
         "awesome-list",
