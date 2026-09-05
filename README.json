@@ -44,7 +44,7 @@
             "open_issues": 9,
             "owner": "johang",
             "repo": "vlc-bittorrent",
-            "stars": 498,
+            "stars": 499,
             "topics": [
               "bittorrent",
               "debian",
@@ -78,7 +78,7 @@
             "open_issues": 2,
             "owner": "spmn",
             "repo": "vlc-win10smtc",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "media",
               "plugin",
@@ -504,7 +504,7 @@
             "open_issues": 96,
             "owner": "oaubert",
             "repo": "python-vlc",
-            "stars": 447,
+            "stars": 446,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:16:29.286Z",
+    "last_updated": "2026-09-05T11:24:00.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
