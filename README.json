@@ -328,7 +328,7 @@
             "open_issues": 5,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1810,
+            "stars": 1809,
             "topics": [
               "dotnet",
               "libvlc",
@@ -355,7 +355,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-02-22T21:07:55Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "caprica",
             "repo": "vlcj",
             "stars": 1241,
@@ -500,7 +500,7 @@
             "id": 24303649,
             "language": "Python",
             "license": "LGPL-2.1",
-            "last_commit": "2025-06-09T15:37:09Z",
+            "last_commit": "2026-09-07T20:16:23Z",
             "open_issues": 96,
             "owner": "oaubert",
             "repo": "python-vlc",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:41:52.144Z",
+    "last_updated": "2026-09-08T12:18:00.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
