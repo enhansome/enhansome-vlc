@@ -57,7 +57,7 @@ This is a list of awesome resources about VLC and LibVLC.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 605 | 🐛 366 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⚠️ Archived - Dart bindings for libvlc.
 * [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 511 | 🐛 13 | 🌐 Go | 📅 2026-07-16 - Go bindings for libVLC and high-level media player interface.
-* [python-vlc](https://github.com/oaubert/python-vlc) ⭐ 445 | 🐛 96 | 🌐 Python | 📅 2026-09-07 - Python vlc bindings.
+* [python-vlc](https://github.com/oaubert/python-vlc) ⭐ 445 | 🐛 94 | 🌐 Python | 📅 2026-09-10 - Python vlc bindings.
 * [libvlc-zig](https://github.com/kassane/libvlc-zig) ⭐ 21 | 🐛 7 | 🌐 Zig | 📅 2023-09-03 - Zig bindings for libVLC.
 * [VLCKit](https://code.videolan.org/videolan/VLCKit) - The libvlc bindings for macOS, iOS, iPadOS and tvOS in Objective-C.
 * [libvlcjni](https://code.videolan.org/videolan/vlc-android/-/tree/master/libvlc) - The libvlc bindings for the Android platform.
@@ -93,4 +93,4 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
