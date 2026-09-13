@@ -354,8 +354,8 @@
             "id": 3289298,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-02-22T21:07:55Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-12T17:22:24Z",
+            "open_issues": 10,
             "owner": "caprica",
             "repo": "vlcj",
             "stars": 1242,
@@ -504,7 +504,7 @@
             "open_issues": 94,
             "owner": "oaubert",
             "repo": "python-vlc",
-            "stars": 445,
+            "stars": 446,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:43:43.467Z",
+    "last_updated": "2026-09-13T12:51:36.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
