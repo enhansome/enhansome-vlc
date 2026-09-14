@@ -44,7 +44,7 @@
             "open_issues": 9,
             "owner": "johang",
             "repo": "vlc-bittorrent",
-            "stars": 500,
+            "stars": 501,
             "topics": [
               "bittorrent",
               "debian",
@@ -205,7 +205,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-06-19T16:52:36Z",
-            "open_issues": 7,
+            "open_issues": 9,
             "owner": "surrim",
             "repo": "vlc-delete",
             "stars": 120,
@@ -301,7 +301,7 @@
             "open_issues": 1,
             "owner": "eltoro0815",
             "repo": "vlc-auto-dir-enqueue-prev-next",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:51:36.608Z",
+    "last_updated": "2026-09-14T14:25:44.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
@@ -554,7 +554,7 @@
       "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 297,
+      "stars": 298,
       "topics": [
         "awesome",
         "awesome-list",
