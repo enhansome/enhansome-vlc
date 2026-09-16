@@ -205,7 +205,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-06-19T16:52:36Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "surrim",
             "repo": "vlc-delete",
             "stars": 120,
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:54:17.937Z",
+    "last_updated": "2026-09-16T12:50:56.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
