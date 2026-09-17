@@ -44,7 +44,7 @@
             "open_issues": 9,
             "owner": "johang",
             "repo": "vlc-bittorrent",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "bittorrent",
               "debian",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:50:56.191Z",
+    "last_updated": "2026-09-17T12:47:46.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
