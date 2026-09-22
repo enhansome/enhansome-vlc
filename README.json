@@ -324,11 +324,11 @@
             "id": 136175474,
             "language": "C#",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-08T13:40:56Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-21T16:37:47Z",
+            "open_issues": 6,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1811,
+            "stars": 1812,
             "topics": [
               "dotnet",
               "libvlc",
@@ -358,7 +358,7 @@
             "open_issues": 11,
             "owner": "caprica",
             "repo": "vlcj",
-            "stars": 1241,
+            "stars": 1242,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -425,7 +425,7 @@
             "open_issues": 53,
             "owner": "alexmercerind",
             "repo": "dart_vlc",
-            "stars": 527,
+            "stars": 526,
             "topics": [
               "audio",
               "audio-player",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:33:11.763Z",
+    "last_updated": "2026-09-22T12:50:58.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
