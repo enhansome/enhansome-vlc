@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1206,
+            "stars": 1207,
             "topics": [
               "plugin",
               "vlc",
@@ -354,8 +354,8 @@
             "id": 3289298,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T17:22:24Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-24T19:51:51Z",
+            "open_issues": 12,
             "owner": "caprica",
             "repo": "vlcj",
             "stars": 1242,
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:55:10.063Z",
+    "last_updated": "2026-09-25T13:01:11.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
