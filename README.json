@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1207,
+            "stars": 1208,
             "topics": [
               "plugin",
               "vlc",
@@ -301,7 +301,7 @@
             "open_issues": 1,
             "owner": "eltoro0815",
             "repo": "vlc-auto-dir-enqueue-prev-next",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -358,7 +358,7 @@
             "open_issues": 12,
             "owner": "caprica",
             "repo": "vlcj",
-            "stars": 1242,
+            "stars": 1243,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -425,7 +425,7 @@
             "open_issues": 53,
             "owner": "alexmercerind",
             "repo": "dart_vlc",
-            "stars": 526,
+            "stars": 527,
             "topics": [
               "audio",
               "audio-player",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T12:29:29.650Z",
+    "last_updated": "2026-09-27T13:19:44.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
