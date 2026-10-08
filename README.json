@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1210,
+            "stars": 1211,
             "topics": [
               "plugin",
               "vlc",
@@ -355,7 +355,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-24T19:51:51Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "caprica",
             "repo": "vlcj",
             "stars": 1242,
@@ -397,7 +397,7 @@
             "language": "Dart",
             "license": null,
             "last_commit": "2025-09-25T03:33:58Z",
-            "open_issues": 366,
+            "open_issues": 367,
             "owner": "solid-software",
             "repo": "flutter_vlc_player",
             "stars": 604,
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T14:46:08.289Z",
+    "last_updated": "2026-10-08T14:57:38.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
@@ -554,7 +554,7 @@
       "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 301,
+      "stars": 302,
       "topics": [
         "awesome",
         "awesome-list",
