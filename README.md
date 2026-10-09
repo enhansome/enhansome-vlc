@@ -25,7 +25,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## VLC native plugins
 
-* [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,211 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
+* [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,212 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
 * [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 502 | 🐛 9 | 🌐 C++ | 📅 2026-08-09 - A bittorrent plugin for VLC.
 * [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 136 | 🐛 0 | 🌐 C++ | 📅 2026-09-08 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 * [vlc-tip-plugin](https://github.com/aklexel/vlc-tip-plugin) ⭐ 60 | 🐛 2 | 🌐 C | 📅 2020-05-24 - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
@@ -51,8 +51,8 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,815 | 🐛 1 | 🌐 C# | 📅 2026-10-06 - Cross-platform .NET/Mono bindings for LibVLC.
-* [vlcj](https://github.com/caprica/vlcj) ⭐ 1,242 | 🐛 6 | 🌐 Java | 📅 2026-09-24 -  Java framework for the vlc media player (desktop).
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,816 | 🐛 1 | 🌐 C# | 📅 2026-10-06 - Cross-platform .NET/Mono bindings for LibVLC.
+* [vlcj](https://github.com/caprica/vlcj) ⭐ 1,242 | 🐛 5 | 🌐 Java | 📅 2026-10-08 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 604 | 🐛 367 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⚠️ Archived - Dart bindings for libvlc.
@@ -93,4 +93,4 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1211,
+            "stars": 1212,
             "topics": [
               "plugin",
               "vlc",
@@ -328,7 +328,7 @@
             "open_issues": 1,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1815,
+            "stars": 1816,
             "topics": [
               "dotnet",
               "libvlc",
@@ -354,8 +354,8 @@
             "id": 3289298,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T19:51:51Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-08T21:44:58Z",
+            "open_issues": 5,
             "owner": "caprica",
             "repo": "vlcj",
             "stars": 1242,
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:57:38.260Z",
+    "last_updated": "2026-10-09T14:41:59.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
@@ -554,7 +554,7 @@
       "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 302,
+      "stars": 303,
       "topics": [
         "awesome",
         "awesome-list",
