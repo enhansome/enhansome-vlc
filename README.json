@@ -44,7 +44,7 @@
             "open_issues": 9,
             "owner": "johang",
             "repo": "vlc-bittorrent",
-            "stars": 502,
+            "stars": 503,
             "topics": [
               "bittorrent",
               "debian",
@@ -354,8 +354,8 @@
             "id": 3289298,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T10:12:35Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-11T07:43:52Z",
+            "open_issues": 4,
             "owner": "caprica",
             "repo": "vlcj",
             "stars": 1242,
@@ -400,7 +400,7 @@
             "open_issues": 366,
             "owner": "solid-software",
             "repo": "flutter_vlc_player",
-            "stars": 604,
+            "stars": 603,
             "topics": [
               "flutter",
               "flutter-video-player",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:59:05.825Z",
+    "last_updated": "2026-10-11T14:23:43.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
@@ -554,7 +554,7 @@
       "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 303,
+      "stars": 305,
       "topics": [
         "awesome",
         "awesome-list",

@@ -26,7 +26,7 @@ This is a list of awesome resources about VLC and LibVLC.
 ## VLC native plugins
 
 * [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,213 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
-* [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 502 | 🐛 9 | 🌐 C++ | 📅 2026-08-09 - A bittorrent plugin for VLC.
+* [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 503 | 🐛 9 | 🌐 C++ | 📅 2026-08-09 - A bittorrent plugin for VLC.
 * [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 136 | 🐛 0 | 🌐 C++ | 📅 2026-09-08 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 * [vlc-tip-plugin](https://github.com/aklexel/vlc-tip-plugin) ⭐ 60 | 🐛 2 | 🌐 C | 📅 2020-05-24 - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
 * [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker) ⭐ 14 | 🐛 1 | 🌐 Lua | 📅 2019-06-01 - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
@@ -52,9 +52,9 @@ This is a list of awesome resources about VLC and LibVLC.
 ## Bindings
 
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,817 | 🐛 1 | 🌐 C# | 📅 2026-10-06 - Cross-platform .NET/Mono bindings for LibVLC.
-* [vlcj](https://github.com/caprica/vlcj) ⭐ 1,242 | 🐛 3 | 🌐 Java | 📅 2026-10-10 -  Java framework for the vlc media player (desktop).
+* [vlcj](https://github.com/caprica/vlcj) ⭐ 1,242 | 🐛 4 | 🌐 Java | 📅 2026-10-11 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
-* [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 604 | 🐛 366 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
+* [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 603 | 🐛 366 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⚠️ Archived - Dart bindings for libvlc.
 * [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 510 | 🐛 13 | 🌐 Go | 📅 2026-07-16 - Go bindings for libVLC and high-level media player interface.
 * [python-vlc](https://github.com/oaubert/python-vlc) ⭐ 447 | 🐛 94 | 🌐 Python | 📅 2026-09-21 - Python vlc bindings.
@@ -93,4 +93,4 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
