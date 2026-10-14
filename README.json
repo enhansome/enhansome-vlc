@@ -44,7 +44,7 @@
             "open_issues": 9,
             "owner": "johang",
             "repo": "vlc-bittorrent",
-            "stars": 505,
+            "stars": 504,
             "topics": [
               "bittorrent",
               "debian",
@@ -208,7 +208,7 @@
             "open_issues": 10,
             "owner": "surrim",
             "repo": "vlc-delete",
-            "stars": 119,
+            "stars": 121,
             "topics": [
               "lua",
               "vlc",
@@ -324,7 +324,7 @@
             "id": 136175474,
             "language": "C#",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-13T12:20:18Z",
+            "last_commit": "2026-10-13T16:12:17Z",
             "open_issues": 0,
             "owner": "videolan",
             "repo": "libvlcsharp",
@@ -379,7 +379,7 @@
             "open_issues": 8,
             "owner": "RSATom",
             "repo": "WebChimera.js",
-            "stars": 665,
+            "stars": 666,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:17:53.952Z",
+    "last_updated": "2026-10-14T13:06:41.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
