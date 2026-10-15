@@ -324,7 +324,7 @@
             "id": 136175474,
             "language": "C#",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-13T16:12:17Z",
+            "last_commit": "2026-10-14T13:58:09Z",
             "open_issues": 0,
             "owner": "videolan",
             "repo": "libvlcsharp",
@@ -354,7 +354,7 @@
             "id": 3289298,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T07:43:52Z",
+            "last_commit": "2026-10-14T21:48:02Z",
             "open_issues": 4,
             "owner": "caprica",
             "repo": "vlcj",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:06:41.164Z",
+    "last_updated": "2026-10-15T12:53:00.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
