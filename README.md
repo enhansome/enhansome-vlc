@@ -25,8 +25,8 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## VLC native plugins
 
-* [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,215 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
-* [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 504 | 🐛 9 | 🌐 C++ | 📅 2026-08-09 - A bittorrent plugin for VLC.
+* [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,217 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
+* [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 505 | 🐛 9 | 🌐 C++ | 📅 2026-08-09 - A bittorrent plugin for VLC.
 * [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 137 | 🐛 0 | 🌐 C++ | 📅 2026-09-08 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 * [vlc-tip-plugin](https://github.com/aklexel/vlc-tip-plugin) ⭐ 60 | 🐛 2 | 🌐 C | 📅 2020-05-24 - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
 * [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker) ⭐ 14 | 🐛 1 | 🌐 Lua | 📅 2019-06-01 - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
@@ -34,7 +34,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## VLC web & lua extensions
 
-* [TraktForVLC](https://github.com/XaF/TraktForVLC) ⭐ 314 | 🐛 30 | 🌐 Python | 📅 2019-02-03 - Automatically trakt.tv what you're watching on VLC.
+* [TraktForVLC](https://github.com/XaF/TraktForVLC) ⭐ 313 | 🐛 30 | 🌐 Python | 📅 2019-02-03 - Automatically trakt.tv what you're watching on VLC.
 * [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 121 | 🐛 10 | 🌐 Lua | 📅 2026-06-19 - VLC extension to remove videos from the hard disk.
 * [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) ⭐ 18 | 🐛 1 | 🌐 Lua | 📅 2021-08-12 - Automatically Skip Opening and Ending Sequences.
 * [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-06-11 -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
@@ -51,7 +51,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,821 | 🐛 0 | 🌐 C# | 📅 2026-10-14 - Cross-platform .NET/Mono bindings for LibVLC.
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,820 | 🐛 0 | 🌐 C# | 📅 2026-10-14 - Cross-platform .NET/Mono bindings for LibVLC.
 * [vlcj](https://github.com/caprica/vlcj) ⭐ 1,243 | 🐛 4 | 🌐 Java | 📅 2026-10-14 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 603 | 🐛 366 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
@@ -93,4 +93,4 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
