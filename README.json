@@ -324,11 +324,11 @@
             "id": 136175474,
             "language": "C#",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-14T13:58:09Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-20T09:58:10Z",
+            "open_issues": 1,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1820,
+            "stars": 1821,
             "topics": [
               "dotnet",
               "libvlc",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:00:25.842Z",
+    "last_updated": "2026-10-20T13:02:28.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
