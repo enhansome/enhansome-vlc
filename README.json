@@ -266,27 +266,6 @@
         },
         {
           "node_type": "item",
-          "title": "playlist-youtube-vlc",
-          "description": "Lua plugin to parse Youtube playlists.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Lua plugin to parse Youtube playlists",
-            "homepage": null,
-            "id": 410108860,
-            "language": "Lua",
-            "license": "GPL-3.0",
-            "last_commit": "2021-09-26T05:14:27Z",
-            "open_issues": 0,
-            "owner": "Abstraxt-AA",
-            "repo": "playlist-youtube-vlc",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:36:22.521Z"
-        },
-        {
-          "node_type": "item",
           "title": "vlc-auto-dir-enqueue-prev-next",
           "description": "Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.",
           "children": [],
@@ -301,6 +280,27 @@
             "open_issues": 1,
             "owner": "eltoro0815",
             "repo": "vlc-auto-dir-enqueue-prev-next",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
+        },
+        {
+          "node_type": "item",
+          "title": "playlist-youtube-vlc",
+          "description": "Lua plugin to parse Youtube playlists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lua plugin to parse Youtube playlists",
+            "homepage": null,
+            "id": 410108860,
+            "language": "Lua",
+            "license": "GPL-3.0",
+            "last_commit": "2021-09-26T05:14:27Z",
+            "open_issues": 0,
+            "owner": "Abstraxt-AA",
+            "repo": "playlist-youtube-vlc",
             "stars": 9,
             "topics": []
           },
@@ -328,7 +328,7 @@
             "open_issues": 3,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1823,
+            "stars": 1825,
             "topics": [
               "dotnet",
               "libvlc",
@@ -460,7 +460,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-07-16T20:22:15Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "adrg",
             "repo": "libvlc-go",
             "stars": 510,
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T13:13:15.531Z",
+    "last_updated": "2026-10-23T12:52:24.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
@@ -554,7 +554,7 @@
       "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 306,
+      "stars": 307,
       "topics": [
         "awesome",
         "awesome-list",

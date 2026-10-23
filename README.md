@@ -38,8 +38,8 @@ This is a list of awesome resources about VLC and LibVLC.
 * [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 121 | 🐛 10 | 🌐 Lua | 📅 2026-06-19 - VLC extension to remove videos from the hard disk.
 * [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) ⭐ 18 | 🐛 1 | 🌐 Lua | 📅 2021-08-12 - Automatically Skip Opening and Ending Sequences.
 * [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-06-11 -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
+* [vlc-auto-dir-enqueue-prev-next](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2025-09-19 - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
 * [playlist-youtube-vlc](https://github.com/Abstraxt-AA/playlist-youtube-vlc) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2021-09-26 - Lua plugin to parse Youtube playlists.
-* [vlc-auto-dir-enqueue-prev-next](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) ⭐ 9 | 🐛 1 | 🌐 Lua | 📅 2025-09-19 - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
 * [VideoLAN addons website](https://addons.videolan.org/browse/) - VideoLAN addons website.
 
 ## Apps
@@ -51,12 +51,12 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,823 | 🐛 3 | 🌐 C# | 📅 2026-10-20 - Cross-platform .NET/Mono bindings for LibVLC.
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,825 | 🐛 3 | 🌐 C# | 📅 2026-10-20 - Cross-platform .NET/Mono bindings for LibVLC.
 * [vlcj](https://github.com/caprica/vlcj) ⭐ 1,243 | 🐛 4 | 🌐 Java | 📅 2026-10-14 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 603 | 🐛 366 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⚠️ Archived - Dart bindings for libvlc.
-* [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 510 | 🐛 13 | 🌐 Go | 📅 2026-07-16 - Go bindings for libVLC and high-level media player interface.
+* [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 510 | 🐛 14 | 🌐 Go | 📅 2026-07-16 - Go bindings for libVLC and high-level media player interface.
 * [python-vlc](https://github.com/oaubert/python-vlc) ⭐ 448 | 🐛 94 | 🌐 Python | 📅 2026-09-21 - Python vlc bindings.
 * [libvlc-zig](https://github.com/kassane/libvlc-zig) ⭐ 21 | 🐛 7 | 🌐 Zig | 📅 2023-09-03 - Zig bindings for libVLC.
 * [VLCKit](https://code.videolan.org/videolan/VLCKit) - The libvlc bindings for macOS, iOS, iPadOS and tvOS in Objective-C.
@@ -93,4 +93,4 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
