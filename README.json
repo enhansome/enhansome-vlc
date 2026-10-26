@@ -208,7 +208,7 @@
             "open_issues": 10,
             "owner": "surrim",
             "repo": "vlc-delete",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "lua",
               "vlc",
@@ -325,7 +325,7 @@
             "language": "C#",
             "license": "LGPL-2.1",
             "last_commit": "2026-10-20T09:58:10Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "videolan",
             "repo": "libvlcsharp",
             "stars": 1826,
@@ -358,7 +358,7 @@
             "open_issues": 4,
             "owner": "caprica",
             "repo": "vlcj",
-            "stars": 1243,
+            "stars": 1244,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T12:46:51.027Z",
+    "last_updated": "2026-10-26T14:34:59.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
