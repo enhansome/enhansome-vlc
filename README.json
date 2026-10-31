@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1219,
+            "stars": 1221,
             "topics": [
               "plugin",
               "vlc",
@@ -44,7 +44,7 @@
             "open_issues": 9,
             "owner": "johang",
             "repo": "vlc-bittorrent",
-            "stars": 506,
+            "stars": 508,
             "topics": [
               "bittorrent",
               "debian",
@@ -400,7 +400,7 @@
             "open_issues": 366,
             "owner": "solid-software",
             "repo": "flutter_vlc_player",
-            "stars": 603,
+            "stars": 604,
             "topics": [
               "flutter",
               "flutter-video-player",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:34:10.762Z",
+    "last_updated": "2026-10-31T13:54:53.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
