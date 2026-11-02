@@ -27,7 +27,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 * [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) ⭐ 1,222 | 🐛 19 | 🌐 C | 📅 2025-01-28 - Plugin for VLC that pauses/plays video on mouse click.
 * [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) ⭐ 508 | 🐛 9 | 🌐 C++ | 📅 2026-08-09 - A bittorrent plugin for VLC.
-* [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 142 | 🐛 0 | 🌐 C++ | 📅 2026-09-08 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
+* [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 143 | 🐛 0 | 🌐 C++ | 📅 2026-09-08 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 * [vlc-tip-plugin](https://github.com/aklexel/vlc-tip-plugin) ⭐ 60 | 🐛 2 | 🌐 C | 📅 2020-05-24 - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
 * [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker) ⭐ 14 | 🐛 1 | 🌐 Lua | 📅 2019-06-01 - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
 * [vlc-mixer](https://github.com/lachie/vlc-mixer) ⭐ 4 | 🐛 0 | 🌐 Zig | 📅 2021-07-01 - Audio mixer VLC plugin written in Zig.
@@ -35,7 +35,7 @@ This is a list of awesome resources about VLC and LibVLC.
 ## VLC web & lua extensions
 
 * [TraktForVLC](https://github.com/XaF/TraktForVLC) ⭐ 314 | 🐛 30 | 🌐 Python | 📅 2019-02-03 - Automatically trakt.tv what you're watching on VLC.
-* [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 122 | 🐛 10 | 🌐 Lua | 📅 2026-06-19 - VLC extension to remove videos from the hard disk.
+* [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 123 | 🐛 10 | 🌐 Lua | 📅 2026-06-19 - VLC extension to remove videos from the hard disk.
 * [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) ⭐ 18 | 🐛 1 | 🌐 Lua | 📅 2021-08-12 - Automatically Skip Opening and Ending Sequences.
 * [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-06-11 -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
 * [vlc-auto-dir-enqueue-prev-next](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2025-09-19 - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
@@ -70,7 +70,7 @@ This is a list of awesome resources about VLC and LibVLC.
 * [HLS Record tutorial](https://mfkl.github.io/hls/2018/10/10/How-to-record-HLS-stream-with-LibVLCSharp-and-.NET-Core.html) - How to record an HLS stream with LibVLCSharp and .NET Core.
 * [RTSP mosaic tutorial](https://mfkl.github.io/libvlc/rtsp/xamarin/forms/2018/12/05/crossplatform-RTSP-mosaic-views-with-libvlcsharp.html) - Cross-platform RTSP Mosaic views with LibVLCSharp.
 * [MediaElement tutorial](https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer) - VLC Media Player control in Xamarin Forms.
-* [LibVLC LLM Skill](https://github.com/mfkl/libvlc-skill) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10 - A Claude Code plugin that gives AI coding assistants deep knowledge of the libvlc API (both 3.x and 4.x), the multimedia framework behind VLC media player.
+* [LibVLC LLM Skill](https://github.com/mfkl/libvlc-skill) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10 - A Claude Code plugin that gives AI coding assistants deep knowledge of the libvlc API (both 3.x and 4.x), the multimedia framework behind VLC media player.
 
 ## Ebook
 
@@ -93,4 +93,4 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

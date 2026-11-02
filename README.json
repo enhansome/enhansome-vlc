@@ -78,7 +78,7 @@
             "open_issues": 0,
             "owner": "spmn",
             "repo": "vlc-win10smtc",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "media",
               "plugin",
@@ -208,7 +208,7 @@
             "open_issues": 10,
             "owner": "surrim",
             "repo": "vlc-delete",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "lua",
               "vlc",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T14:31:46.553Z",
+    "last_updated": "2026-11-02T17:27:29.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
