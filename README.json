@@ -78,7 +78,7 @@
             "open_issues": 0,
             "owner": "spmn",
             "repo": "vlc-win10smtc",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "media",
               "plugin",
@@ -425,7 +425,7 @@
             "open_issues": 53,
             "owner": "alexmercerind",
             "repo": "dart_vlc",
-            "stars": 527,
+            "stars": 526,
             "topics": [
               "audio",
               "audio-player",
@@ -504,7 +504,7 @@
             "open_issues": 94,
             "owner": "oaubert",
             "repo": "python-vlc",
-            "stars": 448,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T15:29:06.110Z",
+    "last_updated": "2026-11-04T15:47:41.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
