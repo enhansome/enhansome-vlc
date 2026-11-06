@@ -30,7 +30,7 @@ This is a list of awesome resources about VLC and LibVLC.
 * [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) ⭐ 144 | 🐛 0 | 🌐 C++ | 📅 2026-09-08 - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 * [vlc-tip-plugin](https://github.com/aklexel/vlc-tip-plugin) ⭐ 60 | 🐛 2 | 🌐 C | 📅 2020-05-24 - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
 * [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker) ⭐ 14 | 🐛 1 | 🌐 Lua | 📅 2019-06-01 - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
-* [vlc-mixer](https://github.com/lachie/vlc-mixer) ⭐ 4 | 🐛 0 | 🌐 Zig | 📅 2021-07-01 - Audio mixer VLC plugin written in Zig.
+* [vlc-mixer](https://github.com/lachie/vlc-mixer) ⭐ 5 | 🐛 0 | 🌐 Zig | 📅 2021-07-01 - Audio mixer VLC plugin written in Zig.
 
 ## VLC web & lua extensions
 
@@ -93,4 +93,4 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
