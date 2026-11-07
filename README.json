@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "plugin",
               "vlc",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T15:24:25.496Z",
+    "last_updated": "2026-11-07T14:22:36.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
@@ -554,7 +554,7 @@
       "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 308,
+      "stars": 307,
       "topics": [
         "awesome",
         "awesome-list",
