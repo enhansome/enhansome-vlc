@@ -180,7 +180,7 @@
             "open_issues": 30,
             "owner": "xaf",
             "repo": "TraktForVLC",
-            "stars": 314,
+            "stars": 315,
             "topics": [
               "lua",
               "movie",
@@ -504,7 +504,7 @@
             "open_issues": 94,
             "owner": "oaubert",
             "repo": "python-vlc",
-            "stars": 447,
+            "stars": 448,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:49:58.789Z",
+    "last_updated": "2026-11-10T15:48:51.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",

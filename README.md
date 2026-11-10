@@ -34,7 +34,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## VLC web & lua extensions
 
-* [TraktForVLC](https://github.com/XaF/TraktForVLC) ⭐ 314 | 🐛 30 | 🌐 Python | 📅 2019-02-03 - Automatically trakt.tv what you're watching on VLC.
+* [TraktForVLC](https://github.com/XaF/TraktForVLC) ⭐ 315 | 🐛 30 | 🌐 Python | 📅 2019-02-03 - Automatically trakt.tv what you're watching on VLC.
 * [vlc-delete](https://github.com/surrim/vlc-delete) ⭐ 123 | 🐛 10 | 🌐 Lua | 📅 2026-06-19 - VLC extension to remove videos from the hard disk.
 * [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) ⭐ 18 | 🐛 1 | 🌐 Lua | 📅 2021-08-12 - Automatically Skip Opening and Ending Sequences.
 * [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-06-11 -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
@@ -57,7 +57,7 @@ This is a list of awesome resources about VLC and LibVLC.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 604 | 🐛 366 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⚠️ Archived - Dart bindings for libvlc.
 * [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 510 | 🐛 14 | 🌐 Go | 📅 2026-07-16 - Go bindings for libVLC and high-level media player interface.
-* [python-vlc](https://github.com/oaubert/python-vlc) ⭐ 447 | 🐛 94 | 🌐 Python | 📅 2026-09-21 - Python vlc bindings.
+* [python-vlc](https://github.com/oaubert/python-vlc) ⭐ 448 | 🐛 94 | 🌐 Python | 📅 2026-09-21 - Python vlc bindings.
 * [libvlc-zig](https://github.com/kassane/libvlc-zig) ⭐ 21 | 🐛 7 | 🌐 Zig | 📅 2023-09-03 - Zig bindings for libVLC.
 * [VLCKit](https://code.videolan.org/videolan/VLCKit) - The libvlc bindings for macOS, iOS, iPadOS and tvOS in Objective-C.
 * [libvlcjni](https://code.videolan.org/videolan/vlc-android/-/tree/master/libvlc) - The libvlc bindings for the Android platform.
@@ -93,4 +93,4 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
