@@ -44,7 +44,7 @@
             "open_issues": 9,
             "owner": "johang",
             "repo": "vlc-bittorrent",
-            "stars": 508,
+            "stars": 509,
             "topics": [
               "bittorrent",
               "debian",
@@ -157,6 +157,34 @@
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
+        },
+        {
+          "node_type": "item",
+          "title": "vlc-waveform",
+          "description": "Full-file audio waveform visualization with click-to-seek for VLC on Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Independent waveform visualizer for VLC 3.x on Windows x64. Full-file waveforms, click-to-seek and three display modes.",
+            "homepage": null,
+            "id": 1454298068,
+            "language": "C",
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-11T18:07:21Z",
+            "open_issues": 0,
+            "owner": "ChrizzElabs",
+            "repo": "vlc-waveform",
+            "stars": 0,
+            "topics": [
+              "audio-visualization",
+              "open-source",
+              "vlc",
+              "vlc-plugin",
+              "waveform",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-11-12T16:19:12.996Z"
         }
       ],
       "title": "VLC native plugins"
@@ -234,7 +262,7 @@
             "open_issues": 1,
             "owner": "Trevelopment",
             "repo": "vlc-super-skipper",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -542,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T15:38:27.391Z",
+    "last_updated": "2026-11-12T16:19:12.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
@@ -550,11 +578,11 @@
       "id": 355072486,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-03-18T04:20:17Z",
+      "last_commit": "2026-11-12T08:30:39Z",
       "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 307,
+      "stars": 308,
       "topics": [
         "awesome",
         "awesome-list",
@@ -564,7 +592,7 @@
         "vlc"
       ]
     },
-    "original_repository_sha": "cccfe5e59dcc7082c91efa38800338b2765bdbf1",
+    "original_repository_sha": "35ccf07ff690c4d1252b80943f86b605b7b6b716",
     "enhanced_repository": "enhansome/enhansome-vlc",
     "enhanced_repository_description": null,
     "title": "Awesome VLC with stars"
