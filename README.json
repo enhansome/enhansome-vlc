@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1224,
+            "stars": 1225,
             "topics": [
               "plugin",
               "vlc",
@@ -78,7 +78,7 @@
             "open_issues": 0,
             "owner": "spmn",
             "repo": "vlc-win10smtc",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "media",
               "plugin",
@@ -283,7 +283,7 @@
             "open_issues": 0,
             "owner": "piebro",
             "repo": "vlc-mcp-server",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "mcp",
               "mcp-server",
@@ -356,7 +356,7 @@
             "open_issues": 1,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1832,
+            "stars": 1831,
             "topics": [
               "dotnet",
               "libvlc",
@@ -428,7 +428,7 @@
             "open_issues": 366,
             "owner": "solid-software",
             "repo": "flutter_vlc_player",
-            "stars": 604,
+            "stars": 603,
             "topics": [
               "flutter",
               "flutter-video-player",
@@ -532,7 +532,7 @@
             "open_issues": 94,
             "owner": "oaubert",
             "repo": "python-vlc",
-            "stars": 449,
+            "stars": 448,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T17:29:28.655Z",
+    "last_updated": "2026-11-17T17:05:50.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
