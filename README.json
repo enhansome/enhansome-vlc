@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1225,
+            "stars": 1226,
             "topics": [
               "plugin",
               "vlc",
@@ -78,7 +78,7 @@
             "open_issues": 0,
             "owner": "spmn",
             "repo": "vlc-win10smtc",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "media",
               "plugin",
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T17:05:50.210Z",
+    "last_updated": "2026-11-18T16:44:06.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
