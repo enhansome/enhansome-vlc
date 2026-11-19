@@ -386,7 +386,7 @@
             "open_issues": 4,
             "owner": "caprica",
             "repo": "vlcj",
-            "stars": 1244,
+            "stars": 1245,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T16:44:06.216Z",
+    "last_updated": "2026-11-19T16:50:06.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
