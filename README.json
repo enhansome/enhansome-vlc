@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1224,
+            "stars": 1226,
             "topics": [
               "plugin",
               "vlc",
@@ -170,7 +170,7 @@
             "id": 1454298068,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-11T18:07:21Z",
+            "last_commit": "2026-11-21T12:02:30Z",
             "open_issues": 0,
             "owner": "ChrizzElabs",
             "repo": "vlc-waveform",
@@ -386,7 +386,7 @@
             "open_issues": 4,
             "owner": "caprica",
             "repo": "vlcj",
-            "stars": 1244,
+            "stars": 1243,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:24:37.988Z",
+    "last_updated": "2026-11-21T15:39:11.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
