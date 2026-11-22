@@ -78,7 +78,7 @@
             "open_issues": 0,
             "owner": "spmn",
             "repo": "vlc-win10smtc",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "media",
               "plugin",
@@ -356,7 +356,7 @@
             "open_issues": 1,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1830,
+            "stars": 1831,
             "topics": [
               "dotnet",
               "libvlc",
@@ -407,7 +407,7 @@
             "open_issues": 8,
             "owner": "RSATom",
             "repo": "WebChimera.js",
-            "stars": 665,
+            "stars": 666,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.521Z"
@@ -453,7 +453,7 @@
             "open_issues": 53,
             "owner": "alexmercerind",
             "repo": "dart_vlc",
-            "stars": 526,
+            "stars": 525,
             "topics": [
               "audio",
               "audio-player",
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T15:39:11.845Z",
+    "last_updated": "2026-11-22T15:42:22.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
