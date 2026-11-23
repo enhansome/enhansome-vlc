@@ -356,7 +356,7 @@
             "open_issues": 1,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1831,
+            "stars": 1830,
             "topics": [
               "dotnet",
               "libvlc",
@@ -488,7 +488,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-07-16T20:22:15Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "adrg",
             "repo": "libvlc-go",
             "stars": 510,
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T15:42:22.307Z",
+    "last_updated": "2026-11-23T19:30:07.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",

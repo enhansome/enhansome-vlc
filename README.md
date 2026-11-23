@@ -52,12 +52,12 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Bindings
 
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,831 | 🐛 1 | 🌐 C# | 📅 2026-11-03 - Cross-platform .NET/Mono bindings for LibVLC.
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,830 | 🐛 1 | 🌐 C# | 📅 2026-11-03 - Cross-platform .NET/Mono bindings for LibVLC.
 * [vlcj](https://github.com/caprica/vlcj) ⭐ 1,243 | 🐛 4 | 🌐 Java | 📅 2026-10-14 -  Java framework for the vlc media player (desktop).
 * [WebChimera.js](https://github.com/RSATom/WebChimera.js) ⚠️ Archived - Electron bindings for libvlc.
 * [flutter\_vlc\_player](https://github.com/solid-software/flutter_vlc_player) ⭐ 603 | 🐛 366 | 🌐 Dart | 📅 2025-09-25 - Flutter bindings to LibVLC.
 * [dart\_vlc](https://github.com/alexmercerind/dart_vlc) ⚠️ Archived - Dart bindings for libvlc.
-* [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 510 | 🐛 14 | 🌐 Go | 📅 2026-07-16 - Go bindings for libVLC and high-level media player interface.
+* [libvlc-go](https://github.com/adrg/libvlc-go) ⭐ 510 | 🐛 13 | 🌐 Go | 📅 2026-07-16 - Go bindings for libVLC and high-level media player interface.
 * [python-vlc](https://github.com/oaubert/python-vlc) ⭐ 447 | 🐛 94 | 🌐 Python | 📅 2026-09-21 - Python vlc bindings.
 * [libvlc-zig](https://github.com/kassane/libvlc-zig) ⭐ 21 | 🐛 7 | 🌐 Zig | 📅 2023-09-03 - Zig bindings for libVLC.
 * [VLCKit](https://code.videolan.org/videolan/VLCKit) - The libvlc bindings for macOS, iOS, iPadOS and tvOS in Objective-C.
@@ -94,4 +94,4 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
