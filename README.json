@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:06:50.596Z",
+    "last_updated": "2026-11-25T18:12:10.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
@@ -582,7 +582,7 @@
       "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 312,
+      "stars": 313,
       "topics": [
         "awesome",
         "awesome-list",
