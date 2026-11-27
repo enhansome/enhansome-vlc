@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "nurupo",
             "repo": "vlc-pause-click-plugin",
-            "stars": 1226,
+            "stars": 1227,
             "topics": [
               "plugin",
               "vlc",
@@ -294,27 +294,6 @@
         },
         {
           "node_type": "item",
-          "title": "playlist-youtube-vlc",
-          "description": "Lua plugin to parse Youtube playlists.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Lua plugin to parse Youtube playlists",
-            "homepage": null,
-            "id": 410108860,
-            "language": "Lua",
-            "license": "GPL-3.0",
-            "last_commit": "2021-09-26T05:14:27Z",
-            "open_issues": 0,
-            "owner": "Abstraxt-AA",
-            "repo": "playlist-youtube-vlc",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:36:22.521Z"
-        },
-        {
-          "node_type": "item",
           "title": "vlc-auto-dir-enqueue-prev-next",
           "description": "Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.",
           "children": [],
@@ -329,6 +308,27 @@
             "open_issues": 1,
             "owner": "eltoro0815",
             "repo": "vlc-auto-dir-enqueue-prev-next",
+            "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:36:22.521Z"
+        },
+        {
+          "node_type": "item",
+          "title": "playlist-youtube-vlc",
+          "description": "Lua plugin to parse Youtube playlists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lua plugin to parse Youtube playlists",
+            "homepage": null,
+            "id": 410108860,
+            "language": "Lua",
+            "license": "GPL-3.0",
+            "last_commit": "2021-09-26T05:14:27Z",
+            "open_issues": 0,
+            "owner": "Abstraxt-AA",
+            "repo": "playlist-youtube-vlc",
             "stars": 10,
             "topics": []
           },
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:54:29.792Z",
+    "last_updated": "2026-11-27T17:40:00.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome VLC and LibVLC resources. ",
@@ -582,7 +582,7 @@
       "open_issues": 0,
       "owner": "mfkl",
       "repo": "awesome-vlc",
-      "stars": 313,
+      "stars": 315,
       "topics": [
         "awesome",
         "awesome-list",
